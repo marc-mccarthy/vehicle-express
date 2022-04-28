@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;;
+}
+
+button {
+  min-width: 120px;
+}
+
+#inputDiv, #outputDiv{
+  display: flex;
+  justify-content: space-evenly;
+}
